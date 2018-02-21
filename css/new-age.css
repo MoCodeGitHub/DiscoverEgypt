@@ -154,6 +154,7 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: brown;
+  background: url("../img/egyptians.jpg"), #7b4397;
 }
 
 header.masthead .header-content {
